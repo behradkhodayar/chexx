@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# build output
+dist/
+
+# test + QA artifacts
+test-results/
+playwright-report/
+artifacts/
+
+# vite temp config bundles
+*.timestamp-*.mjs
+
+# local tooling / editor
+.claude/settings.local.json
+*.log
+.DS_Store
