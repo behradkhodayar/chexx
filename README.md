@@ -224,10 +224,5 @@ styling, accessibility, sound design, all fair game.
 
 ---
 
-## Credits & licence
-
-Designed and built as an original take on chess — the transmutation-under-a-cap
-mechanic is the core idea. Pieces, textures, environment and audio are all
-generated procedurally at runtime.
-
-No licence has been declared yet; add one (`LICENSE`) before distributing.
+## Copyright:
+© 2026 Behrad Khodayar. This project is source-available for personal, educational, and non-commercial use only. Commercial use, distribution, hosting, or derivative commercial products require prior written permission.
